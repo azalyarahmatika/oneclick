@@ -1,0 +1,17 @@
+{
+    "name": "One Click Delicious Food Place",
+    "short_name": "One Click",
+    "description": "Please choose your favorite food place",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#d84315",
+    "icons": [      
+      {
+        "src": "favicon.png",
+        "sizes": "1300x1300",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
